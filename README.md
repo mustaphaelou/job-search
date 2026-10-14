@@ -1,3 +1,7 @@
+> **Fork notice:** This repository is a personal fork of [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search). The original project, documentation, and license are by Mads Lorentzen. Upstream is the canonical source; this fork exists for personal experimentation.
+
+---
+
 <p align="center">
   <img src="assets/mascot/pip_flight_loop.gif" alt="Pip, the courier bird" width="200">
 </p>
